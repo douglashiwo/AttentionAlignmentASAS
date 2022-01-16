@@ -1,0 +1,5 @@
+1.Source data from https://www.kaggle.com/c/asap-sas/data
+
+2.Data had been divided by the prompt_ID(Question_ID) into ten subsets. Each subsets was further divided into training set,validation set and testing set. One can easily tell from the file name.
+
+3.Totally 33 files,  30 subset files and 3 whole set files.
